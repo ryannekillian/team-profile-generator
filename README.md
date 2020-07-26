@@ -12,7 +12,7 @@
   Installation process for the project: type node Index.js into the command line
   
   ## Usage
- (!screenshot)
+ ![this is a screenshot of my website](./screenshot.png)
   
   
   ## **License:**

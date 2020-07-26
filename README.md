@@ -20,7 +20,7 @@
   This project is protected under the MIT license.
 
   ## Contributing
-  npm inquierer package
+  npm inquirer package
   
   ## **Tests**
   type node Index.js into the command line and answer all of the quetions. The answers will be formulated into an html that you can view.

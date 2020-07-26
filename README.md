@@ -1,7 +1,7 @@
 **Team Profile Generator**
 
   ## **Description**
-  * generating a team profile using the command line
+  * This application generates a team profile using the command line. It allows you to input information about the team manager, engineer or intern. It asks for team member IDs and returns an error if a number is not put in. It asks for members emails and returns and error if "@something.com" is not put it. 
   
   ## **Table of Contents**
   ### [Installation](#Installation)
